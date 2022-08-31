@@ -4,3 +4,7 @@
 2-bring_me_home script for moving to home directory
 3-listfiles, this script displays current directory contents in a long format
 4-listmorefiles, this script displays current directory contents, including hidden files (starting with .)
+5-listfilesdigitonly, script to display current directory contents, detils to display includes:
+- Long format
+- with user and group IDs displayed numerically
+- And hidden files (starting with .)
