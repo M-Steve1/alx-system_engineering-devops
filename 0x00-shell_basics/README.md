@@ -3,3 +3,4 @@
 1-listit is the script for listing files in a directory
 2-bring_me_home script for moving to home directory
 3-listfiles, this script displays current directory contents in a long format
+4-listmorefiles, this script displays current directory contents, including hidden files (starting with .)
