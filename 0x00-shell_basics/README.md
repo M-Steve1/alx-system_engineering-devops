@@ -41,3 +41,10 @@
 101-clean_emacs, this script deletes all the files in the current working directory that ends with ~
 
 102-tree, this script will create the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
+103-commas, this script will list all files and directories in the current working directory in the following format:
+- Directories will end with a slash(/)
+- Files and directories starting with a dot (.) will be listed
+- The listing will be alpha ordered except for directories and files starting with . and .. will be at the very beginning
+- Only digits and letters are used to sort; Digits will come first
+				 
