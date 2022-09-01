@@ -47,4 +47,5 @@
 - Files and directories starting with a dot (.) will be listed
 - The listing will be alpha ordered except for directories and files starting with . and .. will be at the very beginning
 - Only digits and letters are used to sort; Digits will come first
-				 
+
+school.mgc, this script can be used with the command 'file' to detect School data files. School data files always contain the string SCHOOL at offset 0.
