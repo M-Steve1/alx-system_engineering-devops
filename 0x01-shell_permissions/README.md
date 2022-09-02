@@ -10,3 +10,4 @@
 - Owner: no permission at all
 - Group: no permission at all
 - Other users: all the permissions
+9-John_Doe, this script sets the mode of the file hello to "-rwxr-x-wx"
