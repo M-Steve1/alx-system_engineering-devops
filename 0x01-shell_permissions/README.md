@@ -11,3 +11,4 @@
 - Group: no permission at all
 - Other users: all the permissions
 9-John_Doe, this script sets the mode of the file hello to "-rwxr-x-wx"
+10-mirror_permissions, sets the mode of the file hello the same as olleh’s mode.
