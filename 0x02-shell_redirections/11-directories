@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -print | ls -la | wc -l
+find . -type f -print | ls -laR | wc -l
