@@ -6,3 +6,4 @@
 5-firstlines, this script displays the first 10 lines of /etc/passwd.
 6-third_line, this script displays the third line of the file iacta.
 8-cwd_state, writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it overwrittes it and If the file ls_cwd_content does not exist, create it.
+9-duplicate_last_line, this script that duplicates the last line of the file iacta
