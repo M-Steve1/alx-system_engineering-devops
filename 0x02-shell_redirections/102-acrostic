@@ -1,2 +1,2 @@
 #!/bin/bash
-head -c 10
+cat | head -c 10 | tr [:lower:] [:upper:]
